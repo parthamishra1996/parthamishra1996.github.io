@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Partha Sarathi Mishra"
-  avatar           : "/images/Headshot.png"
+  avatar           : "images/Headshot.png"
   bio              : "PhD candidate in Operations Management at Kellogg School of Management, Northwestern University"
   location         : "Evanston, Illinois"
   employer         :
