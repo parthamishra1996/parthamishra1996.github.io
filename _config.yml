@@ -14,10 +14,10 @@ description              : &description "personal description"
 url                      : https://parthamishra1996.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "parthamishra1996/parthamishra1996.github.io"
-teaser                   : "/images/HeadShot.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "HeadShot.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -81,18 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "Partha Sarathi Mishra"
+  avatar           : "HeadShot.png"
   bio              : "PhD candidate in Operations at Kellogg, Northwestern University"
   location         : "Evanston, IL, USA"
   email            : "partha.mishra@kellogg.northwestern.edu"
   linkedin         : "https://www.linkedin.com/in/partha-sarathi-mishra-60a372a2/"
 
-#avatar           : "/images/profile.png"
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
+  - images
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
