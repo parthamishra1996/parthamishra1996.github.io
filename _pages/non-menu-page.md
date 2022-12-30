@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
+title: ""
 excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
