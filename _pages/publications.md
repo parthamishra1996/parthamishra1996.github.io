@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* "Mobility on demand meets shuttles on the same mile" with my co-advisors (to be submitted in MSOM)
+* "Airport design for social welfare" with my co-advisors (work in progress)
+* "Did the pandemic change shopping habits at retail
+stores?" with Sunil Chopra and [Ioannis Stamatopoulos](https://sites.utexas.edu/yannis-stamos/) (work in progress)
