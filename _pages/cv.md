@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,7 +26,7 @@ Talks
 * "Expanding scheduled shuttles with mobility-on-demand," INFORMS 2021, Anaheim, California
 * “Customer Visit Segmentation in an Online Retail Market,” 9th IEOM Conference 2019, Bangkok
 
-Teaching assistant and grader
+Teaching and grading
 ======
 * Operations MBA Core (OPNS 430, OPNS 440). Role: teaching assistant, grader
 * Supply chain Management (OPNS 455). Role: grader
