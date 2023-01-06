@@ -32,4 +32,4 @@ Teaching and grading
 * Supply chain Management (OPNS 455). Role: grader
 * Analaytics (OPNS 441). Role: grader
 
-Received voluntarily words of appreciations (in emails) from regular and executive MBA students for review sessions in OPNS 430.
+Received voluntarily words of appreciations (in [emails](https://drive.google.com/drive/folders/1vcWvJozUtOkl6aDv_eFgYphNOwwqJxiT?usp=sharing)) for review sessions of MBA students in OPNS 430 course.
